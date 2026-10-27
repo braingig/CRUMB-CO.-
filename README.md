@@ -31,3 +31,7 @@ Checkout, account sign-in, email subscriptions and catering submissions are demo
 ## Original hero asset
 
 `public/images/hero.png` was generated with the built-in image generation tool. Brief: photorealistic American neighborhood bakery still life; vanilla confetti celebration cake with ivory buttercream, red piped borders and cherries; cupcakes, cookies and cake slice; cream CRUMB & CO. packaging on a buttery yellow set; natural editorial light and authentic handmade textures.
+
+## Reference hero update
+
+The header and workshop hero follow the user-supplied Magnolia Bakery screenshot, with CRUMB & CO. branding. The workshop background image is sourced from the publicly accessible Magnolia Bakery CDN: https://www.magnoliabakery.com/cdn/shop/files/IcingClassesDigitalAssets_Homepage_Module_2048x.jpg?v=1755274281 . The scalloped panel is a project-authored SVG mask.
