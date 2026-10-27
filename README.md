@@ -47,3 +47,7 @@ New generated assets (built-in image generation):
 ## Motion
 
 Lightweight CSS animations and an IntersectionObserver hook provide one-time scroll reveals, staggered card entrances, hero slide transitions, a seamless brand ribbon, dropdown and dialog entrances, cart feedback, and hover interactions. No animation dependency is required. Reduced-motion preferences disable animations and reveal all content immediately; observer cleanup runs when filters change or the component unmounts.
+
+## Page simplification
+
+Removed the custom cake builder, delivery-options section, and community photo grid at the user’s request. The Local Delivery footer link now leads to Locations.
