@@ -51,3 +51,7 @@ Lightweight CSS animations and an IntersectionObserver hook provide one-time scr
 ## Page simplification
 
 Removed the custom cake builder, delivery-options section, and community photo grid at the user’s request. The Local Delivery footer link now leads to Locations.
+
+## Enhanced motion
+
+Added slow hero image zoom and scroll drift, a gently floating hero panel, scroll-linked photo parallax, pointer-responsive category card tilt, rotating ribbon accents, subtle photo/stamp rocking, button highlights, and a reading-progress line. Continuous hero motion pauses out of view. Scroll updates are batched with requestAnimationFrame; listeners and observers are cleaned up. Reduced motion disables decorative effects. The header CTA reads ORDER NOW.
