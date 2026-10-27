@@ -5,7 +5,7 @@ export function useMotion(refreshKey) {
   useEffect(() => {
     const preference = window.matchMedia('(prefers-reduced-motion: reduce)');
     let observer;
-    const selectors = '.section-heading, .category-card, .product, .occasions > h2, .occasions > p, .occasion-options, .occasion-result, .pudding-photo, .split-copy, .story-text, .story-photos, .locations-grid > article, .reviews > h2, .review-grid > blockquote, .newsletter > div, .footer-column';
+    const selectors = '.page-hero, .order-step, .order-mode, .order-aside, .detail-gallery, .detail-copy, .order-summary, .editorial-copy, .editorial-split > img, .values-grid > article, .inquiry-aside, .store-form, .workshop-layout > div, .account-block, .policy-layout > div > section, .faq-group, .location-bottom > div, .section-heading, .category-card, .product, .occasions > h2, .occasions > p, .occasion-options, .occasion-result, .pudding-photo, .split-copy, .story-text, .story-photos, .locations-grid > article, .reviews > h2, .review-grid > blockquote, .newsletter > div, .footer-column';
     const elements = [...document.querySelectorAll(selectors)];
     const showAll = () => {
       observer?.disconnect();
