@@ -43,3 +43,7 @@ Centered the desktop navigation; removed small eyebrow labels and the locations 
 New generated assets (built-in image generation):
 - `public/images/celebration-cool.png`: confetti cake, cupcakes, cookies and a slice on blush linen with a powder-blue background, cool neutral daylight, no yellow cast.
 - `public/images/custom-cake-real.png`: realistic vintage piped ivory-and-blush celebration cake on an espresso backdrop, blank front oval for the live inscription.
+
+## Motion
+
+Lightweight CSS animations and an IntersectionObserver hook provide one-time scroll reveals, staggered card entrances, hero slide transitions, a seamless brand ribbon, dropdown and dialog entrances, cart feedback, and hover interactions. No animation dependency is required. Reduced-motion preferences disable animations and reveal all content immediately; observer cleanup runs when filters change or the component unmounts.
