@@ -35,3 +35,11 @@ Checkout, account sign-in, email subscriptions and catering submissions are demo
 ## Reference hero update
 
 The header and workshop hero follow the user-supplied Magnolia Bakery screenshot, with CRUMB & CO. branding. The workshop background image is sourced from the publicly accessible Magnolia Bakery CDN: https://www.magnoliabakery.com/cdn/shop/files/IcingClassesDigitalAssets_Homepage_Module_2048x.jpg?v=1755274281 . The scalloped panel is a project-authored SVG mask.
+
+## Annotated design refinements
+
+Centered the desktop navigation; removed small eyebrow labels and the locations concept note; rebuilt the category grid with Gift Boxes and Breakfast Bakes; replaced the yellow hero/feature photography; replaced the CSS cake drawing with a realistic photo and live inscription overlay.
+
+New generated assets (built-in image generation):
+- `public/images/celebration-cool.png`: confetti cake, cupcakes, cookies and a slice on blush linen with a powder-blue background, cool neutral daylight, no yellow cast.
+- `public/images/custom-cake-real.png`: realistic vintage piped ivory-and-blush celebration cake on an espresso backdrop, blank front oval for the live inscription.
